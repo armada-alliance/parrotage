@@ -20,9 +20,9 @@
 ## Training Data
 | Url | Type | Description (optional) |
 |---|---|---|
-| [example.com](https://example.com) | Website | Example website |
+| [CIP website](https://cips.cardano.org/) | Website | CIP Standards website |
 | [example.com](https://youtube.com) | Youtube | Example youtube |
-| [example.com](https://example.com) | Website | Example GitHub  |
+| [CIP GitHub Repo](https://github.com/cardano-foundation/CIPs) | Github | CIP Github |
 |  |  |  |
 |  |  |  |
 |  |  |  |
