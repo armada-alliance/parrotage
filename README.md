@@ -20,9 +20,8 @@
 ## Training Data
 | Url | Type | Description (optional) |
 |---|---|---|
-| [example.com](https://example.com) | Website | Example website |
-| [example.com](https://youtube.com) | Youtube | Example youtube |
-| [example.com](https://example.com) | Website | Example GitHub  |
+| [CIP website](https://cips.cardano.org/) | Website | CIP Standards website |
+| [CIP GitHub Repo](https://github.com/cardano-foundation/CIPs) | Github | CIP Github |
 | [https://www.nginx.com/wp-content/uploads/2017/07/Complete-NGINX-Cookbook-2019.pdf](https://www.nginx.com/wp-content/uploads/2017/07/Complete-NGINX-Cookbook-2019.pdf) | Website | nginx cookbook |
 | [https://www.freecodecamp.org/news/the-nginx-handbook/](https://www.freecodecamp.org/news/the-nginx-handbook/) | Website | nginx handbook |
 | [http://www.dest-unreach.org/socat/doc/socat.html#EXAMPLES](http://www.dest-unreach.org/socat/doc/socat.html#EXAMPLES) | Website | socat networking |
