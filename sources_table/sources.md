@@ -35,3 +35,69 @@
 | [https://docs.oracle.com/en-us/iaas/Content/Block/Tasks/attachingabootvolume.htm#Attaching_a_Boot_Volume](https://docs.oracle.com/en-us/iaas/Content/Block/Tasks/attachingabootvolume.htm#Attaching_a_Boot_Volume) | Website | | Yes |
 | [https://docs.oracle.com/en-us/iaas/Content/Block/Tasks/backingupabootvolume.htm#Backing_Up_a_Boot_Volume](https://docs.oracle.com/en-us/iaas/Content/Block/Tasks/backingupabootvolume.htm#Backing_Up_a_Boot_Volume) | Website | | Yes |
 | [https://docs.oracle.com/en-us/iaas/Content/Block/Tasks/detachingabootvolume.htm#Detaching_a_Boot_Volume](https://docs.oracle.com/en-us/iaas/Content/Block/Tasks/detachingabootvolume.htm#Detaching_a_Boot_Volume) | Website | | Yes |
+| [https://github.com/input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node) | GitHub | Cardano Node Repo | Yes |
+| [https://forums.raspberrypi.com/](https://forums.raspberrypi.com/) | Website |  |  |
+| [https://www.raspberrypi.com/](https://www.raspberrypi.com/) | Website |  |  |
+| [https://armada-alliance.gitbook.io/cardano-blockchain-developer-cookbook/](https://armada-alliance.gitbook.io/cardano-blockchain-developer-cookbook/) | Website | PG DevBook |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+
+
+

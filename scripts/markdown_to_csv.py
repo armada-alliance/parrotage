@@ -15,15 +15,12 @@ table_text = table_match.group()
 df = pd.read_csv(StringIO(table_text), sep='|', header=0, engine='python')
 
 new_df = df.loc[df[' Added to Index '] == ' ']
-new_df = pd.concat([new_df, df.loc[df[' Added to Index '] == ' No ']])
-new_df = pd.concat([new_df, df.loc[df[' Added to Index '] == 'No']])
 new_df = pd.concat([new_df, df.loc[df[' Added to Index '] == '  ']])
 
 # We need to drop the first and fifth column, which is empty and then remove the first row, which is the header
 df_clean = new_df.drop(new_df.columns[[0, 5]], axis=1)
 
-# df_clean = df.drop(df.columns[[0, 4]], axis=1)
-# df_clean = df_clean.drop(df_clean.index[0])
+
 # remove the beginning and ending spaces from the column names
 df_clean.columns = df_clean.columns.str.strip()
 

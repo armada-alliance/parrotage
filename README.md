@@ -15,4 +15,7 @@
 
 ## How to add your data
 
-- If you are uploading or adding a pdf, txt, or markdown document, please add it to the `docs` folder. Other wise add your source url to the source table [here](/sources_table/sources.md) and fill out the relevant information.
+- If you are uploading or adding a pdf, txt, or markdown document, please add it to the `docs` folder. Other wise add your source url to the source table [here](/sources_table/sources.md) and fill out the relevant information. 
+
+
+***If you have questions or ideas to improve the repo then please open an issue or visit us in our Telegram or Discord channels.***
