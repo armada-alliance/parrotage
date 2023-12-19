@@ -2,6 +2,8 @@
 
 ***Repo of training data for our AI parrot `Polly`***
 
+![](./parrot_new.png)
+
 ***"Parrrotage", a play on the words "parrot" and "pirate" that evokes the idea of mentorship and trainining XD***
 
 ## What kind of training data can I add?
